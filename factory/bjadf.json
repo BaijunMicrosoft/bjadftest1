@@ -1,0 +1,9 @@
+{
+	"name": "bjadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9a440e4d-a7c7-4faf-91cb-27a363e34971",
+		"tenantId": "088e9f57-5d2d-436a-84df-5bf17dd5a970"
+	}
+}
